@@ -1,0 +1,32 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\babel@toc {french}{}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1}Hypoth\IeC {\`e}ses et notations}{1}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2}\IeC {\'E}quilibre entre les phases}{2}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3}Pression, contenus}{4}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4}Chaleurs massique et latente, m\IeC {\'e}lange et changements de phase}{4}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.1}Chaleur massique}{4}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.2}Chaleur latente}{4}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.3}Changements de phases}{5}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.4}M\IeC {\'e}lange}{5}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {5}Temp\IeC {\'e}ratures}{5}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.1}Temp\IeC {\'e}rature potentielle}{5}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.2}Temp\IeC {\'e}rature du point de ros\IeC {\'e}e}{5}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.3}Temp\IeC {\'e}rature (potentielle) pseudo-adiabatique du thermom\IeC {\`e}tre mouill\IeC {\'e}}{6}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.4}Temp\IeC {\'e}rature (potentielle) virtuelle}{6}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.5}Temp\IeC {\'e}rature (potentielle) de l'eau liquide}{6}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.6}Temp\IeC {\'e}rature potentielle \IeC {\'e}quivalente}{6}

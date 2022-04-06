@@ -1,0 +1,228 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdftex 2021.8.30)  6 APR 2022 14:13
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**thermo.tex
+(./thermo.tex
+! Undefined control sequence.
+l.1 \newcommand
+               {\superscript}[1]{\ensuremath{^{\textrm{#1}}}} %To put in exp...
+
+? 
+! Interruption.
+<to be read again> 
+                   {
+l.1 \newcommand{
+                \superscript}[1]{\ensuremath{^{\textrm{#1}}}} %To put in exp...
+
+? 
+! Undefined control sequence.
+l.1 \newcommand{\superscript
+                            }[1]{\ensuremath{^{\textrm{#1}}}} %To put in exp...
+
+? 
+! Undefined control sequence.
+l.1 \newcommand{\superscript}[1]{\ensuremath
+                                            {^{\textrm{#1}}}} %To put in exp...
+
+? 
+! Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   ^
+l.1 \newcommand{\superscript}[1]{\ensuremath{^
+                                              {\textrm{#1}}}} %To put in exp...
+
+? 
+! Undefined control sequence.
+l.1 ...mand{\superscript}[1]{\ensuremath{^{\textrm
+                                                  {#1}}}} %To put in exponant
+? 
+! You can't use `macro parameter character #' in math mode.
+l.1 ...nd{\superscript}[1]{\ensuremath{^{\textrm{#
+                                                  1}}}} %To put in exponant
+? 
+! Extra }, or forgotten $.
+l.1 ...superscript}[1]{\ensuremath{^{\textrm{#1}}}
+                                                  } %To put in exponant
+? 
+! Extra }, or forgotten $.
+l.1 ...uperscript}[1]{\ensuremath{^{\textrm{#1}}}}
+                                                   %To put in exponant
+? 
+! Undefined control sequence.
+l.2 \newcommand
+               {\subscript}[1]{\ensuremath{_{\textrm{#1}}}} %To put in indic
+? 
+! Undefined control sequence.
+l.2 \newcommand{\subscript
+                          }[1]{\ensuremath{_{\textrm{#1}}}} %To put in indic
+? 
+! Undefined control sequence.
+l.2 \newcommand{\subscript}[1]{\ensuremath
+                                          {_{\textrm{#1}}}} %To put in indic
+? 
+! Undefined control sequence.
+l.2 ...ommand{\subscript}[1]{\ensuremath{_{\textrm
+                                                  {#1}}}} %To put in indic
+? 
+! You can't use `macro parameter character #' in math mode.
+l.2 ...mand{\subscript}[1]{\ensuremath{_{\textrm{#
+                                                  1}}}} %To put in indic
+? 
+! Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   \par 
+l.3 
+    
+? 
+! Undefined control sequence.
+l.4 \documentclass
+                  {article}
+? 
+! Undefined control sequence.
+l.5 \usepackage
+               {amsmath}
+? 
+! Undefined control sequence.
+l.6 \usepackage
+               [french]{babel} %Pour Ã©crire en franÃ§ais
+? 
+! Undefined control sequence.
+l.7 \usepackage
+               [T1]{fontenc}
+? 
+! Undefined control sequence.
+l.8 \usepackage
+               [utf8]{inputenc} %For accent in firstname
+? 
+! Undefined control sequence.
+l.9 \usepackage
+               [style=french]{csquotes}
+? 
+! Undefined control sequence.
+l.10 \usepackage
+                {multirow} %For multirow in tables
+? 
+! Undefined control sequence.
+l.11 \usepackage
+                {multicol} %For a multicolumn part in the document
+? 
+! Undefined control sequence.
+l.12 \usepackage
+                {graphicx}
+? 
+! Undefined control sequence.
+l.13 \usepackage
+                {rotating} %figure in landscape
+? 
+! Undefined control sequence.
+l.14 \usepackage
+                {subfig}
+? 
+! Undefined control sequence.
+l.15 \usepackage
+                {fullpage}
+? 
+! Undefined control sequence.
+l.16 \usepackage
+                {pdfpages}
+? 
+! Undefined control sequence.
+l.17 \usepackage
+                [citestyle=authoryear, backend=biber, natbib=true]{biblatex}
+? 
+! Undefined control sequence.
+l.18 \addbibresource
+                    {database.bib}
+? 
+
+Overfull \hbox (0.607pt too wide) in paragraph at lines 4--19
+[]\tenrm article ams-math [french]babel [T1]fontenc [utf8]inputenc [style=frenc
+h]csquotes mul-ti-row mul-ti-col graph-|
+
+\hbox(7.5+2.5)x469.75499, glue set - 1.0
+.\hbox(0.0+0.0)x20.0
+.\tenrm a
+.\tenrm r
+.\tenrm t
+.\tenrm i
+.etc.
+
+
+Overfull \hbox (5.77388pt too wide) in paragraph at lines 4--19
+\tenrm icx ro-tat-ing sub-fig full-page pdf-pages [citestyle=authoryear, back-e
+nd=biber, nat-bib=true]biblatex database.bib |
+
+\hbox(7.5+2.5)x469.75499, glue set - 1.0
+.\tenrm i
+.\tenrm c
+.\tenrm x
+.\glue 3.33333 plus 1.66666 minus 1.11111
+.\tenrm r
+.etc.
+
+! Undefined control sequence.
+l.20 \usepackage
+                {placeins}
+? 
+! Undefined control sequence.
+l.22 \title
+           {Quelques Ã©lÃ©ments de thermodynamique humide}
+? 
+Missing character: There is no Ã in font cmr10!
+Missing character: There is no © in font cmr10!
+Missing character: There is no Ã in font cmr10!
+Missing character: There is no © in font cmr10!
+! Undefined control sequence.
+l.23 \author
+            {SÃ©bastien Riette}
+? 
+Missing character: There is no Ã in font cmr10!
+Missing character: There is no © in font cmr10!
+! Undefined control sequence.
+l.24 \date
+          {18 octobre 2021}
+? 
+! Undefined control sequence.
+l.26 \begin
+           {document}
+? 
+! Undefined control sequence.
+l.28 \maketitle
+               
+? 
+! Undefined control sequence.
+l.30 \begin
+           {abstract}
+? 
+Missing character: There is no Ã in font cmr10!
+Missing character: There is no © in font cmr10!
+Missing character: There is no Ã in font cmr10!
+Missing character: There is no © in font cmr10!
+Missing character: There is no Ã in font cmr10!
+Missing character: There is no ¨ in font cmr10!
+Missing character: There is no Ã in font cmr10!
+Missing character: There is no ª in font cmr10!
+Missing character: There is no Ã in font cmr10!
+Missing character: There is no © in font cmr10!
+Missing character: There is no Ã in font cmr10!
+Missing character: There is no © in font cmr10!
+[1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] )
+(\end occurred inside a group at level 2)
+
+### simple group (level 2) entered at line 1 ({)
+### simple group (level 1) entered at line 1 ({)
+### bottom level</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/c
+mr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb
+>
+Output written on thermo.pdf (1 page, 27153 bytes).
+PDF statistics:
+ 16 PDF objects out of 1000 (max. 8388607)
+ 10 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+
