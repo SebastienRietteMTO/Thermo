@@ -14,14 +14,14 @@
 \usepackage{subfig}
 \usepackage{fullpage}
 \usepackage{pdfpages}
-\usepackage[citestyle=authoryear, backend=biber, natbib=true]{biblatex}
-\addbibresource{database.bib}
+%\usepackage[citestyle=authoryear, backend=biber, natbib=true]{biblatex}
+%\addbibresource{database.bib}
 
 \usepackage{placeins}
 
 \title{Quelques éléments de thermodynamique humide}
 \author{Sébastien Riette}
-\date{18 octobre 2021}
+\date{6 avril 2022}
 
 \begin{document}
 
@@ -143,7 +143,7 @@ On a également $(1-q_t)(1+r_t)=1$.
 L'équation des gaz parfaits s'écrit:
 \begin{itemize}
  \item $e=\rho_v R_v T$
- \item $P_d=\rho_a R_d T$
+ \item $P_d=\rho_d R_d T$
  \item $P=\rho R T$ avec $P_d+e=P$ (les autres hydrométéores ne participent pas à la pression car ils sont non gazeux~; par contre on veut les comptabiliser dans le $\rho$, c'est pourquoi ils doivent apparaître dans le $R$)
  \item {\color{red}$P=\rho_d R^* T$} avec également $P_d+e=P$ (ceci n'est nullement une approximation car on utilise alors $R^*$ et non $R$)
 \end{itemize}
@@ -179,7 +179,7 @@ En passant par le point triple, on a {\color{red}$L_v=L_{v_0}+(Cp_v-Cp_l)(T-T0)$
 On peut aussi écrire ces relations en regroupant les termes constants: $L_v=LV0+(Cp_v-Cp_l)T$ et $L_s=LS0+(Cp_v-Cp_i)T$ avec $LV0=L_{v_0}-(Cp_v-Cp_l)T0$ et $LS0=L_{s_0}-(Cp_v-Cp_i)T0$ à ne pas confondre avec $L_{v_0}$ et $L_{s_0}$.
 
 \subsection{Changements de phases}
-Le changement de température dû à un changement de phase (ici entre l'eau liquide et la vapeur), s'écrit~: $(m_a+m_t)Cp{\ \rm d}T=L_v {\ \rm d}m_{v\rightarrow l}$, d'où:
+Le changement de température dû à un changement de phase (ici entre l'eau liquide et la vapeur), s'écrit~: $(m_d+m_t)Cp{\ \rm d}T=L_v {\ \rm d}m_{v\rightarrow l}$, d'où:
 \begin{itemize}
  \item {\color{red}$Cp{\ \rm d}T=L_v{\ \rm d}q_{v\rightarrow l}$}
  \item {\color{red}$Cph{\ \rm d}T=L_v{\ \rm d}r_{v\rightarrow l}$}
